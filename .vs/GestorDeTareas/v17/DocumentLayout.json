@@ -1,12 +1,224 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\PracticasCSharp\\GestorDeTareas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525230650_Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestorDeTareas\\Migrations\\20240525230650_Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\contextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\contextodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525203719_ArchivoAdjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestorDeTareas\\Migrations\\20240525203719_ArchivoAdjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\entidades\\archivoadjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\entidades\\archivoadjunto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\entidades\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525201830_Paso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestorDeTareas\\Migrations\\20240525201830_Paso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\entidades\\paso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\entidades\\paso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525200428_LongitudTituloModificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GestorDeTareas\\Migrations\\20240525200428_LongitudTituloModificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\migrations\\20240525194406_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\migrations\\20240525194406_migracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\gestordetareas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\gestordetareas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|d:\\practicascsharp\\gestordetareas\\gestordetareas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{670AB41F-A1D1-48E6-B5D2-5CE4196CDB78}|GestorDeTareas\\GestorDeTareas.csproj|solutionrelative:gestordetareas\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240525230650_Usuarios.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525230650_Usuarios.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Migrations\\20240525230650_Usuarios.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525230650_Usuarios.cs",
+              "RelativeToolTip": "GestorDeTareas\\Migrations\\20240525230650_Usuarios.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAowA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:06:51.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240525203719_ArchivoAdjunto.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525203719_ArchivoAdjunto.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Migrations\\20240525203719_ArchivoAdjunto.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525203719_ArchivoAdjunto.cs",
+              "RelativeToolTip": "GestorDeTareas\\Migrations\\20240525203719_ArchivoAdjunto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:37:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArchivoAdjunto.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Entidades\\ArchivoAdjunto.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Entidades\\ArchivoAdjunto.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Entidades\\ArchivoAdjunto.cs",
+              "RelativeToolTip": "GestorDeTareas\\Entidades\\ArchivoAdjunto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:33:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240525201830_Paso.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525201830_Paso.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Migrations\\20240525201830_Paso.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525201830_Paso.cs",
+              "RelativeToolTip": "GestorDeTareas\\Migrations\\20240525201830_Paso.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:18:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Entidades\\Tarea.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Entidades\\Tarea.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Entidades\\Tarea.cs",
+              "RelativeToolTip": "GestorDeTareas\\Entidades\\Tarea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:35:18.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Program.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Program.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Program.cs",
+              "RelativeToolTip": "GestorDeTareas\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:28:21.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContextoDb.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\ContextoDb.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\ContextoDb.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\ContextoDb.cs",
+              "RelativeToolTip": "GestorDeTareas\\ContextoDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:18:19.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paso.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Entidades\\Paso.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Entidades\\Paso.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Entidades\\Paso.cs",
+              "RelativeToolTip": "GestorDeTareas\\Entidades\\Paso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:09:51.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240525200428_LongitudTituloModificado.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525200428_LongitudTituloModificado.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Migrations\\20240525200428_LongitudTituloModificado.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525200428_LongitudTituloModificado.cs",
+              "RelativeToolTip": "GestorDeTareas\\Migrations\\20240525200428_LongitudTituloModificado.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:04:29.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240525194406_MigracionInicial.cs",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525194406_MigracionInicial.cs",
+              "RelativeDocumentMoniker": "GestorDeTareas\\Migrations\\20240525194406_MigracionInicial.cs",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\Migrations\\20240525194406_MigracionInicial.cs",
+              "RelativeToolTip": "GestorDeTareas\\Migrations\\20240525194406_MigracionInicial.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T19:44:06.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GestorDeTareas\\appsettings.Development.json",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\appsettings.Development.json",
+              "RelativeToolTip": "GestorDeTareas\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-25T19:22:26.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GestorDeTareas",
+              "DocumentMoniker": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\GestorDeTareas.csproj",
+              "RelativeDocumentMoniker": "GestorDeTareas\\GestorDeTareas.csproj",
+              "ToolTip": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\GestorDeTareas.csproj",
+              "RelativeToolTip": "GestorDeTareas\\GestorDeTareas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-25T19:18:17.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
