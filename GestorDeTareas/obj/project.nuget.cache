@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQ9LMHlxNFWXIpH/Jafm09az4/NXw+VO/ykMNXN8nQBC7mvVu6+MHn3DwhPANZP/RQh5atcBEYMXL4Hm1nSTpA==",
+  "success": true,
+  "projectFilePath": "D:\\PracticasCSharp\\GestorDeTareas\\GestorDeTareas\\GestorDeTareas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres Ortega S\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Andres Ortega S\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Andres Ortega S\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\Andres Ortega S\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
